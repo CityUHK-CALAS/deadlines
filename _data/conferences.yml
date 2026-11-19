@@ -1,304 +1,567 @@
 - title: CHES
-  year: 2026
-  id: ches26
+  year: 2027
+  id: ches27-3
   full_name: IACR Conference on Cryptographic Hardware and Embedded Systems
-  link: https://ches.iacr.org/2026/
-  deadline: '2025-07-15 23:59:59'
+  link: https://ches.iacr.org/2027/
+  deadline: '2027-01-15 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: September 14-18, 2026
-  start: 2026-09-14
-  end: 2026-09-18
+  place: Cancún, Mexico
+  date: September 6-9, 2027
+  start: 2027-09-06
+  end: 2027-09-09
   sub: [DS, SC]
-  note: Top conference for hardware-based cryptography and embedded system security.
+  note: "TCHES Volume 2027/3 deadline. CHES uses four TCHES submission rounds per year."
+
+- title: CHES
+  year: 2027
+  id: ches27-4
+  full_name: IACR Conference on Cryptographic Hardware and Embedded Systems
+  link: https://ches.iacr.org/2027/
+  deadline: '2027-04-15 23:59:59'
+  timezone: UTC-12
+  place: Cancún, Mexico
+  date: September 6-9, 2027
+  start: 2027-09-06
+  end: 2027-09-09
+  sub: [DS, SC]
+  note: "TCHES Volume 2027/4 deadline."
 
 - title: PPoPP
-  year: 2025
-  id: ppopp25
-  link: https://ppopp25.sigplan.org/
-  full_name: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 2025
-  abstract_deadline: '2024-08-16 23:59:59'
-  deadline: '2024-08-16 23:59:59'
+  year: 2027
+  id: ppopp27
+  link: https://ppopp27.sigplan.org/
+  full_name: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+  deadline: '2026-08-03 23:59:59'
   timezone: UTC-12
-  place: Las Vegas, NV, USA
-  date: March 1-5, 2025
-  start: 2025-03-01
-  end: 2025-03-05
+  place: Salt Lake City, UT, USA
+  date: March 20-24, 2027
+  start: 2027-03-20
+  end: 2027-03-24
   sub: DS
-  note: "Official info at <a href='https://ppopp25.sigplan.org/'>ppopp25.sigplan.org</a>"
+  note: "Co-located with HPCA and CGO 2027."
 
 - title: FAST
-  year: 2026
-  id: fast26-spring
-  link: https://www.usenix.org/conference/fast26
-  full_name: 24th USENIX Conference on File and Storage Technologies
-  deadline: '2025-03-18 23:59:00'
+  year: 2027
+  id: fast27-spring
+  link: https://www.usenix.org/conference/fast27
+  full_name: 25th USENIX Conference on File and Storage Technologies
+  deadline: '2026-03-17 23:59:59'
   timezone: UTC-12
-  place: Santa Clara, CA, USA
-  date: February 24-26, 2026
-  start: 2026-02-24
-  end: 2026-02-26
+  place: Renton, WA, USA
+  date: February 23-25, 2027
+  start: 2027-02-23
+  end: 2027-02-25
   sub: DS
   note: "Spring deadline"
 
 - title: FAST
-  year: 2026
-  id: fast26-fall
-  link: https://www.usenix.org/conference/fast26
-  full_name: 24th USENIX Conference on File and Storage Technologies
-  deadline: '2025-09-16 23:59:00'
+  year: 2027
+  id: fast27-fall
+  link: https://www.usenix.org/conference/fast27
+  full_name: 25th USENIX Conference on File and Storage Technologies
+  deadline: '2026-09-15 23:59:59'
   timezone: UTC-12
-  place: Santa Clara, CA, USA
-  date: February 24-26, 2026
-  start: 2026-02-24
-  end: 2026-02-26
+  place: Renton, WA, USA
+  date: February 23-25, 2027
+  start: 2027-02-23
+  end: 2027-02-25
   sub: DS
   note: "Fall deadline"
 
 - title: DAC
-  year: 2025
-  id: dac25
-  link: https://www.dac.com/
-  abstract_deadline: '2024-11-12 23:59:59'
-  deadline: '2024-11-19 23:59:59'
-  timezone: UTC-12
-  place: San Francisco, CA, USA
-  date: June 22-25, 2025
-  start: 2025-06-22
-  end: 2025-06-25
+  year: 2027
+  id: dac27
+  full_name: Design Automation Conference
+  link: https://dac.com/2027/authors/call-for-contributions
+  abstract_deadline: '2026-11-11 17:00:00'
+  deadline: '2026-11-18 17:00:00'
+  timezone: America/Los_Angeles
+  place: San Jose McEnery Convention Center, San Jose, CA, USA
+  date: July 11-14, 2027
+  start: 2027-07-11
+  end: 2027-07-14
   sub: DS
-  note: "Official info at <a href='https://www.dac.com/'>dac.com</a>"
+  note: "Abstract due November 11, 2026 and manuscript due November 18, 2026, both at 5:00 PM US Pacific Time."
 
 - title: HPCA
-  year: 2025
-  id: hpca25
-  link: https://hpca-conf.org/
+  year: 2027
+  id: hpca27
+  link: https://conf.researchr.org/home/hpca-2027
   full_name: IEEE International Symposium on High-Performance Computer Architecture
-  abstract_deadline: '2024-07-26 23:59:59'
-  deadline: '2024-08-02 23:59:59'
+  abstract_deadline: '2026-07-24 23:59:59'
+  deadline: '2026-07-31 23:59:59'
   timezone: UTC-12
-  place: Las Vegas, NV, USA
-  date: March 1-5, 2025
-  start: 2025-03-01
-  end: 2025-03-05
+  place: Salt Lake City, UT, USA
+  date: March 20-24, 2027
+  start: 2027-03-20
+  end: 2027-03-24
   sub: DS
-  note: "Official info at <a href='https://hpca-conf.org/'>hpca-conf.org</a>"
+  note: "Abstract due July 24, 2026. Co-located with PPoPP and CGO 2027."
 
 - title: MICRO
-  year: 2025
-  id: micro25
-  link: https://microarch.org/
+  year: 2026
+  id: micro26
+  link: https://microarch.org/micro59/
   full_name: IEEE/ACM International Symposium on Microarchitecture
-  abstract_deadline: '2025-04-04 23:59:59'
-  deadline: '2025-04-11 23:59:59'
-  timezone: UTC-12
-  place: Seoul, Korea
-  date: October 18-22, 2025
-  start: 2025-10-18
-  end: 2025-10-22
+  abstract_deadline: '2026-03-31 23:59:59'
+  deadline: '2026-04-07 23:59:59'
+  timezone: UTC-4
+  place: Athens, Greece
+  date: October 31 - November 4, 2026
+  start: 2026-10-31
+  end: 2026-11-04
   sub: DS
-  note: "Official info at <a href='https://microarch.org/'>microarch.org</a>"
+  note: "MICRO 2027 has not been announced yet."
 
 - title: SC
-  year: 2025
-  id: sc25
-  link: https://sc25.supercomputing.org/
+  year: 2026
+  id: sc26
+  link: https://sc26.supercomputing.org/
   full_name: International Conference for High Performance Computing, Networking, Storage, and Analysis
-  abstract_deadline: '2024-04-07 23:59:59'
-  deadline: '2025-04-07 23:59:59'
+  abstract_deadline: '2026-04-01 23:59:59'
+  deadline: '2026-04-08 23:59:59'
   timezone: UTC-12
-  place: ST.LOUIS, MO, USA
-  date: November 16-21, 2025
-  start: 2025-11-16
-  end: 2025-11-21
+  place: McCormick Place, Chicago, IL, USA
+  date: November 16-20, 2026
+  start: 2026-11-16
+  end: 2026-11-20
   sub: DS
-  note: "Official info at <a href='https://sc25.supercomputing.org/'>supercomputing.org</a>"
+  note: "SC27 has not been officially announced yet (expected Denver, November 2027)."
 
 - title: ASPLOS
-  year: 2025
-  id: asplos25
-  link: https://asplos-conference.org/
+  year: 2027
+  id: asplos27-april
+  link: https://www.asplos-conference.org/asplos2027/cfp/
   full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
-  abstract_deadline: '2024-10-11 23:59:59'
-  deadline: '2024-10-18 23:59:59'
+  deadline: '2026-04-15 23:59:59'
   timezone: UTC-12
-  place: Rotterdam, The Netherlands
-  date: March 30 - April 3, 2025
-  start: 2025-03-30
-  end: 2025-04-03
+  place: Crete, Greece
+  date: April 11-15, 2027
+  start: 2027-04-11
+  end: 2027-04-15
   sub: DS
-  note: "Official info at <a href='https://asplos-conference.org/'>asplos-conference.org</a>"
+  note: "April cycle"
+
+- title: ASPLOS
+  year: 2027
+  id: asplos27-september
+  link: https://www.asplos-conference.org/asplos2027/cfp/
+  full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
+  deadline: '2026-09-09 23:59:59'
+  timezone: UTC-12
+  place: Crete, Greece
+  date: April 11-15, 2027
+  start: 2027-04-11
+  end: 2027-04-15
+  sub: DS
+  note: "September cycle"
 
 - title: ISCA
-  year: 2025
-  id: isca25
-  link: https://iscaconf.org/
-  abstract_deadline: '2024-11-15 23:59:59'
-  deadline: '2024-11-22 23:59:59'
+  year: 2027
+  id: isca27
+  link: https://iscaconf.org/isca2027/
+  full_name: International Symposium on Computer Architecture
+  abstract_deadline: '2026-11-09 23:59:59'
+  deadline: '2026-11-16 23:59:59'
   timezone: UTC-12
-  place: Waseda University, Tokyo, Japan
-  date: June 21-25, 2025
-  start: 2025-06-21
-  end: 2025-06-25
+  place: Atlanta, GA, USA
+  date: June 5-9, 2027
+  start: 2027-06-05
+  end: 2027-06-09
   sub: DS
-  note: "Official info at <a href='https://iscaconf.org/'>iscaconf.org</a>"
+  note: "Main track. Rebuttal/revision period February 16 - March 8, 2027."
 
-- title: USENIX ATC
-  year: 2025
-  id: usenixatc25
-  link: https://www.usenix.org/conference/atc25
-  full_name: 2025 USENIX Annual Technical Conference
-  abstract_deadline: '2025-01-07 23:59:59'
-  deadline: '2025-01-14 23:59:59'
+- title: ISCA
+  year: 2027
+  id: isca27-industry
+  link: https://iscaconf.org/isca2027/
+  full_name: International Symposium on Computer Architecture
+  abstract_deadline: '2026-12-06 23:59:59'
+  deadline: '2026-12-13 23:59:59'
   timezone: UTC-12
-  place: BOSTON, MA, USA
-  date: July 7-9, 2025
-  start: 2025-07-07
-  end: 2025-07-09
+  place: Atlanta, GA, USA
+  date: June 5-9, 2027
+  start: 2027-06-05
+  end: 2027-06-09
   sub: DS
-  note: "Official info at <a href='https://www.usenix.org/conference/atc25'>usenix.org/conference/atc25</a>"
+  note: "Industry track. Abstract due December 6, 2026."
+
+- title: SIGOPS ATC
+  year: 2027
+  id: atc27
+  link: https://atc.sigops.org/2027/
+  full_name: ACM SIGOPS Annual Technical Conference
+  deadline: '2027-01-19 23:59:59'
+  timezone: UTC-12
+  place: Rennes, France
+  date: June 28 - July 1, 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  sub: DS
+  note: "ATC moved from USENIX to ACM SIGOPS in 2026."
 
 - title: EuroSys
-  year: 2026
-  id: eurosys26-spring
-  link: https://2026.eurosys.org/
-  abstract_deadline: '2025-05-08 23:59:59'
-  deadline: '2025-05-15 23:59:59'
+  year: 2027
+  id: eurosys27-spring
+  link: https://2027.eurosys.org/
+  full_name: European Conference on Computer Systems
+  abstract_deadline: '2026-05-07 23:59:59'
+  deadline: '2026-05-14 23:59:59'
   timezone: UTC-12
-  place: Edinburgh, UK
-  date: April 13-16, 2026
-  start: 2026-04-13
-  end: 2026-04-16
+  place: Rabat, Morocco
+  date: April 19-23, 2027
+  start: 2027-04-19
+  end: 2027-04-23
   sub: DS
   note: "Spring deadline"
 
 - title: EuroSys
-  year: 2026
-  id: eurosys26-fall
-  link: https://2026.eurosys.org/
-  abstract_deadline: '2025-09-18 23:59:59'
-  deadline: '2025-09-25 23:59:59'
+  year: 2027
+  id: eurosys27-fall
+  link: https://2027.eurosys.org/
+  full_name: European Conference on Computer Systems
+  abstract_deadline: '2026-09-17 23:59:59'
+  deadline: '2026-09-24 23:59:59'
   timezone: UTC-12
-  place: Edinburgh, UK
-  date: April 13-16, 2026
-  start: 2026-04-13
-  end: 2026-04-16
+  place: Rabat, Morocco
+  date: April 19-23, 2027
+  start: 2027-04-19
+  end: 2027-04-23
   sub: DS
   note: "Fall deadline"
 
 - title: FPGA
-  year: 2025
-  id: fpga25
+  year: 2027
+  id: fpga27
   link: https://www.isfpga.org/
-  abstract_deadline: '2024-10-01 23:59:59'
-  deadline: '2024-10-08 23:59:59'
+  full_name: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+  abstract_deadline: '2026-10-01 23:59:59'
+  deadline: '2026-10-08 23:59:59'
   timezone: UTC-12
   place: Monterey, CA, USA
-  date: February 27 - March 1, 2025
-  start: 2025-02-27
-  end: 2025-03-01
+  date: March 14-16, 2027
+  start: 2027-03-14
+  end: 2027-03-16
   sub: DS
-  note: "More info <a href='https://www.isfpga.org/'>here</a>"
+  note: "Abstract due October 1, 2026. Notification December 8, 2026."
 
 - title: DATE
-  year: 2026
-  id: date26
-  link: https://date-conference.com/
+  year: 2027
+  id: date27
+  link: https://www.date-conference.com/call-for-papers
   full_name: Design, Automation and Test in Europe Conference
-  abstract_deadline: '2025-09-15 23:59:59'
-  deadline: '2025-09-22 23:59:59'
+  abstract_deadline: '2026-09-13 23:59:00'
+  deadline: '2026-09-20 23:59:00'
   timezone: UTC-12
-  place: Verona, Italy
-  date: April 20-22, 2026
-  start: 2026-04-20
-  end: 2026-04-22
+  place: Dresden, Germany
+  date: March 22-24, 2027
+  start: 2027-03-22
+  end: 2027-03-24
   sub: DS
-  note: "More info <a href='https://date-conference.com/'>here</a>"
+  note: "Abstract due September 13, 2026."
 
 - title: CGO
-  year: 2026
-  id: cgo26-first
-  link: https://2026.cgo.org
+  year: 2027
+  id: cgo27-first
+  link: https://conf.researchr.org/home/cgo-2027
   full_name: International Symposium on Code Generation and Optimization
-  deadline: '2025-05-29 23:59:59'
+  deadline: '2026-06-11 23:59:59'
   timezone: UTC-12
-  place: Sydney, Australia
-  date: TBD
-  start: 2026-04-20
-  end: 2026-04-22
+  place: Salt Lake City, UT, USA
+  date: March 20-24, 2027
+  start: 2027-03-20
+  end: 2027-03-24
   sub: DS
   note: "First deadline"
 
 - title: CGO
-  year: 2026
-  id: cgo26-second
-  link: https://2026.cgo.org
+  year: 2027
+  id: cgo27-second
+  link: https://conf.researchr.org/home/cgo-2027
   full_name: International Symposium on Code Generation and Optimization
-  deadline: '2025-09-11 23:59:59'
+  deadline: '2026-09-10 23:59:59'
   timezone: UTC-12
-  place: Sydney, Australia
-  date: TBD
-  start: 2026-04-20
-  end: 2026-04-22
+  place: Salt Lake City, UT, USA
+  date: March 20-24, 2027
+  start: 2027-03-20
+  end: 2027-03-24
   sub: DS
   note: "Second deadline"
 
 - title: ICCD
-  year: 2025
-  id: iccd25
-  link: https://www.iccd-conf.com/
+  year: 2026
+  id: iccd26
+  link: https://www.iccd-conf.com/2026/home.html
   full_name: IEEE International Conference on Computer Design
-  abstract_deadline: '2025-05-04 23:59:59'
-  deadline: '2025-05-11 23:59:59'
+  abstract_deadline: '2026-06-03 23:59:59'
+  deadline: '2026-06-10 23:59:59'
   timezone: UTC-12
-  place: Dallas, USA
-  date: November 10-12, 2025
-  start: 2025-11-10
-  end: 2025-11-12
+  place: Hong Kong SAR, China
+  date: November 16-18, 2026
+  start: 2026-11-16
+  end: 2026-11-18
   sub: DS
-  note: "More info <a href='https://www.iccd-conf.com/'>here</a>"
+  note: "Held in Hong Kong. ICCD 2027 has not been announced yet."
 
 - title: ICCAD
-  year: 2025
-  id: iccad25
-  link: https://iccad.com/
+  year: 2026
+  id: iccad26
+  link: https://iccad.com/2026
   full_name: IEEE/ACM International Conference on Computer-Aided Design
-  abstract_deadline: '2025-04-14 23:59:59'
-  deadline: '2025-04-21 23:59:59'
+  abstract_deadline: '2026-04-07 23:59:59'
+  deadline: '2026-04-14 23:59:59'
   timezone: UTC-12
-  place: Munich, Germany
-  date: October 26-30, 2025
-  start: 2025-10-26
-  end: 2025-10-30
+  place: San Jose, CA, USA
+  date: November 8-12, 2026
+  start: 2026-11-08
+  end: 2026-11-12
   sub: DS
-  note: "Abstract deadline on April 14, 2025. More info <a href='https://iccad.com/'>here</a>"
+  note: "ICCAD 2027 has not been announced yet."
 
 - title: FPT
-  year: 2025
-  id: fpt25
-  full_name: The International Conference on Field Programmable Technology
-  link: https://fpt2025.shanghaitech.edu.cn/
-  abstract_deadline: '2025-07-14 23:59:59'
-  deadline: '2025-07-23 23:59:59'
+  year: 2026
+  id: fpt26
+  full_name: International Conference on Field-Programmable Technology
+  link: https://fpt2026.uark.edu
+  abstract_deadline: '2026-06-19 23:59:59'
+  deadline: '2026-06-19 23:59:59'
   timezone: UTC-12
-  place: Shanghai, China
-  date: December 2-5, 2025
-  start: 2025-12-2
-  end: 2025-12-5
-  sub: [DS]
-  note: FPT is the premier conference in the Asia-Pacific region on field-programmable technologies, reconfigurable computing devices and systems.
+  place: Honolulu, Hawaii, USA
+  date: December 8-10, 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  sub: DS
+  note: "Conference track (journal track was due May 1, 2026). FPT is the premier Asia-Pacific conference on field-programmable technologies."
 
 - title: FPL
-  year: 2025
-  id: fpl25
-  full_name: The International Conference on Field-Programmable Logic and Applications
-  link: https://2025.fpl.org
-  abstract_deadline: '2025-03-21 23:59:59'
-  deadline: '2025-03-30 23:59:59'
+  year: 2026
+  id: fpl26
+  full_name: International Conference on Field-Programmable Logic and Applications
+  link: https://2026.fpl.org
+  abstract_deadline: '2026-03-20 23:59:59'
+  deadline: '2026-03-27 23:59:59'
   timezone: UTC-12
-  place: Leiden, The Netherlands
-  date: September 1-5, 2025
-  start: 2025-9-1
-  end: 2025-9-5
-  sub: [DS]
-  note: FPL was the first and remains the largest conference dedicated to the rapidly growing field-programmable logic and reconfigurable computing area.
+  place: Ghent, Belgium
+  date: September 7-11, 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  sub: DS
+  note: "FPL is the largest conference dedicated to field-programmable logic and reconfigurable computing. FPL 2027 has not been announced yet."
+
+# ---------------------------------------------------------------------------
+# Upcoming conferences in Hong Kong / Asia-Pacific
+# ---------------------------------------------------------------------------
+
+- title: ASP-DAC
+  year: 2027
+  id: aspdac27
+  full_name: Asia and South Pacific Design Automation Conference
+  link: https://www.aspdac.com/aspdac2027/
+  abstract_deadline: '2026-07-11 17:00:00'
+  deadline: '2026-07-18 17:00:00'
+  timezone: UTC-12
+  place: Hitotsubashi Hall, Tokyo, Japan
+  date: January 25-28, 2027
+  start: 2027-01-25
+  end: 2027-01-28
+  sub: DS
+  note: "APAC (Tokyo). The flagship EDA conference in Asia."
+
+- title: ISPD
+  year: 2027
+  id: ispd27
+  full_name: ACM International Symposium on Physical Design
+  link: https://ispd.cc/ispd2027/
+  abstract_deadline: '2026-09-21 23:59:59'
+  deadline: '2026-09-28 23:59:59'
+  timezone: UTC-12
+  place: Taipei, Taiwan
+  date: March 30 - April 2, 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  sub: DS
+  note: "APAC (Taipei)."
+
+- title: ICDCS
+  year: 2027
+  id: icdcs27
+  full_name: IEEE International Conference on Distributed Computing Systems
+  link: https://icdcs2027.icdcs.org/
+  deadline: TBA
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: July 5-8, 2027
+  start: 2027-07-05
+  end: 2027-07-08
+  sub: DS
+  note: "APAC (Melbourne). Submission deadline not announced yet."
+
+- title: ASIACRYPT
+  year: 2026
+  id: asiacrypt26
+  full_name: International Conference on the Theory and Application of Cryptology and Information Security
+  link: https://asiacrypt.iacr.org/2026/
+  deadline: '2026-05-22 11:59:59'
+  timezone: UTC
+  place: Hong Kong, China
+  date: December 7-11, 2026
+  start: 2026-12-07
+  end: 2026-12-11
+  sub: SC
+  note: "Held in Hong Kong."
+
+- title: AsiaCCS
+  year: 2027
+  id: asiaccs27-first
+  full_name: ACM Asia Conference on Computer and Communications Security
+  link: https://asiaccs2027.cityu.edu.mo/index.html
+  deadline: '2026-08-21 23:59:59'
+  timezone: UTC-12
+  place: Macau, China
+  date: July 12-16, 2027
+  start: 2027-07-12
+  end: 2027-07-16
+  sub: SC
+  note: "APAC (Macau). First round."
+
+- title: AsiaCCS
+  year: 2027
+  id: asiaccs27-second
+  full_name: ACM Asia Conference on Computer and Communications Security
+  link: https://asiaccs2027.cityu.edu.mo/index.html
+  deadline: '2026-12-11 23:59:59'
+  timezone: UTC-12
+  place: Macau, China
+  date: July 12-16, 2027
+  start: 2027-07-12
+  end: 2027-07-16
+  sub: SC
+  note: "APAC (Macau). Second round."
+
+- title: NDSS
+  year: 2027
+  id: ndss27-summer
+  full_name: Network and Distributed System Security Symposium
+  link: https://www.ndss-symposium.org/ndss2027/
+  deadline: '2026-05-06 23:59:59'
+  timezone: UTC-12
+  place: Seoul, Republic of Korea
+  date: March 22-26, 2027
+  start: 2027-03-22
+  end: 2027-03-26
+  sub: SC
+  note: "APAC (Seoul). Summer cycle."
+
+- title: NDSS
+  year: 2027
+  id: ndss27-fall
+  full_name: Network and Distributed System Security Symposium
+  link: https://www.ndss-symposium.org/ndss2027/
+  deadline: '2026-08-19 23:59:59'
+  timezone: UTC-12
+  place: Seoul, Republic of Korea
+  date: March 22-26, 2027
+  start: 2027-03-22
+  end: 2027-03-26
+  sub: SC
+  note: "APAC (Seoul). Fall cycle."
+
+- title: CSF
+  year: 2027
+  id: csf27-winter
+  full_name: IEEE Computer Security Foundations Symposium
+  link: https://www.ieee-security.org/TC/CSF2027/
+  deadline: '2027-01-28 23:59:59'
+  timezone: UTC-12
+  place: Tokyo, Japan
+  date: September 13-17, 2027
+  start: 2027-09-13
+  end: 2027-09-17
+  sub: SC
+  note: "APAC (Tokyo). Winter cycle (summer and fall cycles were August 3 and October 15, 2026)."
+
+- title: PKC
+  year: 2027
+  id: pkc27
+  full_name: International Conference on Practice and Theory of Public-Key Cryptography
+  link: https://pkc.iacr.org/2027/
+  deadline: '2026-08-16 23:59:59'
+  timezone: UTC-12
+  place: Taipei, Taiwan
+  date: March 1-4, 2027
+  start: 2027-03-01
+  end: 2027-03-04
+  sub: SC
+  note: "APAC (Taipei)."
+
+- title: NeurIPS
+  year: 2026
+  id: neurips26
+  full_name: Conference on Neural Information Processing Systems
+  link: https://neurips.cc/Conferences/2026
+  abstract_deadline: '2026-05-05 11:59:00'
+  deadline: '2026-05-07 11:59:59'
+  timezone: UTC
+  place: Sydney, Australia
+  date: December 8-10, 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  sub: AI
+  note: "APAC (Sydney). Multi-site edition: also December 9-11 in Atlanta and Paris."
+
+- title: ACL
+  year: 2027
+  id: acl27
+  full_name: Annual Meeting of the Association for Computational Linguistics
+  link: https://2027.aclweb.org/
+  deadline: '2027-01-04 23:59:59'
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 20-22, 2027
+  start: 2027-08-20
+  end: 2027-08-22
+  sub: AI
+  note: "APAC (Kyoto). ARR submission deadline."
+
+- title: IJCAI
+  year: 2027
+  id: ijcai27
+  full_name: International Joint Conference on Artificial Intelligence
+  link: https://2027.ijcai.org/
+  abstract_deadline: '2027-01-04 23:59:59'
+  deadline: '2027-01-11 23:59:59'
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 7-13, 2027
+  start: 2027-08-07
+  end: 2027-08-13
+  sub: AI
+  note: "APAC (Kyoto). Abstract due January 4, 2027. Satellite event August 15-17, 2027 in Hengqin, China."
+
+- title: COLING
+  year: 2027
+  id: coling27
+  full_name: International Conference on Computational Linguistics
+  link: https://2027.coling-iccl.org/
+  deadline: '2026-12-23 23:59:59'
+  timezone: UTC-12
+  place: Macau SAR, China
+  date: May 9-14, 2027
+  start: 2027-05-09
+  end: 2027-05-14
+  sub: AI
+  note: "APAC (Macau). ARR commitment deadline (direct submission closed October 12, 2026)."
+
+- title: ICCV
+  year: 2027
+  id: iccv27
+  full_name: IEEE/CVF International Conference on Computer Vision
+  link: https://iccv.thecvf.com/Conferences/2027
+  deadline: TBA
+  timezone: UTC-12
+  place: Hong Kong, China
+  date: October 5-7, 2027
+  start: 2027-10-05
+  end: 2027-10-07
+  sub: AI
+  note: "Held in Hong Kong. Submission deadline not announced yet (typically March)."
